@@ -1,2 +1,2 @@
-# photographer_doc
-Documentation for Photographer 4 add-on for Blender
+# photographer_updater
+Repository for updater information using Release tags.
